@@ -1,0 +1,9 @@
+state
+1. Cửa - Nhân
+2. Thiết bị điện trong phòng - Dũng
+3. Chuông báo động - Phúc
+4. Đèn hành lang - Tín
+5. Anh Phát có ý kiến làm gì về object tương tự mấy cái của tụi em nha.
+
+activity
+theo use_case
